@@ -1,0 +1,19 @@
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\PCStart.exe
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\PCStart.pdb
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\Bluepost.System.dll
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\DAO.dll
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\Model.dll
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\Model.pdb
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\ResolveAssemblyReference.cache
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.MDI.resources
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.Properties.Resources.resources
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.csproj.GenerateResource.Cache
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.exe
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.pdb
+D:\01 Customize Development\001 PC Start\PCStart\PCStart\bin\Debug\PCStart.exe.config
+D:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\bin\Debug\PCStart.exe.config
+D:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.exe
+D:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.pdb
+F:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\bin\Debug\PCStart.exe.config
+F:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.exe
+F:\Copy\C#.net Project\001 PC Start\PCStart\PCStart\obj\Debug\PCStart.pdb

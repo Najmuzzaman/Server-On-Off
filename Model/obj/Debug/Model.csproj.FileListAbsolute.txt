@@ -1,0 +1,5 @@
+D:\01 Customize Development\001 PC Start\PCStart\Model\bin\Debug\Model.dll
+D:\01 Customize Development\001 PC Start\PCStart\Model\bin\Debug\Model.pdb
+D:\01 Customize Development\001 PC Start\PCStart\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\01 Customize Development\001 PC Start\PCStart\Model\obj\Debug\Model.dll
+D:\01 Customize Development\001 PC Start\PCStart\Model\obj\Debug\Model.pdb
